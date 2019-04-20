@@ -1,3 +1,5 @@
+require "pry"
+
 def my_collect(array)
   counter = 0 
   new_array = []
